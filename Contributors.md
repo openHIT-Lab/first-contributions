@@ -1,3 +1,4 @@
 - [Duziks](https://github.com/Duziks)
+- [BinaryStar0610](https://github.com/BinaryStar0610)
 - [BoogonClothman](https://github.com/BoogonClothman)
 - [lllxxxxxlll (gFIT)](https://github.com/lllxxxxxlll)
